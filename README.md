@@ -1,6 +1,5 @@
 # PASSWORD
 IT IS A SMALL PROJECT THAT STORES PASSWORD IN YOUR LOCAL STORAGE
-# Password Manager
 
 A simple and secure desktop-based Password Manager built using Python's Tkinter library. It allows users to generate strong passwords, store them locally in a JSON file, and retrieve them when needed. This tool is ideal for personal use.
 
